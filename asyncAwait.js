@@ -9,7 +9,7 @@ function registerOrder() {
         }, 3000);
     })
 
-}
+} 
 
 
 async function createOrder(){
